@@ -1,2 +1,2 @@
 # Signals
-This is visual demonstration of Signals and Systems. 
+This is a visual demonstration of Signals and Systems. 
